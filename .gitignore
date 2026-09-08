@@ -11,3 +11,5 @@ wheels/
 samples/
 outputs/
 logs/
+
+.claude
