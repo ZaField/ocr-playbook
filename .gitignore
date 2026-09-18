@@ -11,3 +11,8 @@ wheels/
 samples/
 outputs/
 logs/
+
+.claude
+documents
+
+.ipynb_checkpoints
